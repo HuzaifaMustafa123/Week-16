@@ -1,0 +1,15 @@
+{
+    "name": "My Lecture Classes PWA",
+    "short_name": "lectureclasses",
+    "description": "my online lecture store",
+    "icons": [
+      {
+        "src": "images/icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#B12A34"
+  }
